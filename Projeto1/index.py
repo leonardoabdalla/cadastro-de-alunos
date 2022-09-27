@@ -31,7 +31,6 @@ while(cadastro == 'S'):
     listaAlunos.append(aluno)
     cadastro = input('Deseja cadastrar um novo aluno?(S/N) ').upper().capitalize()
 print(listaAlunos)
-//
 
 
 
